@@ -14,9 +14,6 @@ importers:
       prettier-plugin-tailwindcss:
         specifier: ^0.6.9
         version: 0.6.9(prettier@3.4.2)
-      tailwindcss:
-        specifier: 4.0.0-beta.9
-        version: 4.0.0-beta.9
 
   website:
     dependencies:
